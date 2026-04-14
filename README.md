@@ -2,6 +2,8 @@
 
 Website: https://angelwing888.github.io/choose-your-own-adventure/web/index.html
 
+Repository: https://github.com/angelwing888/choose-your-own-adventure
+
 ## Build Story Graph
 
 Run:
