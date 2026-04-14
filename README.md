@@ -4,6 +4,8 @@ Website: https://angelwing888.github.io/choose-your-own-adventure/web/index.html
 
 Repository: https://github.com/angelwing888/choose-your-own-adventure
 
+Team members: Leo Bartron, Kylie Chang, Joseph Walter
+
 ## Build Story Graph
 
 Run:
